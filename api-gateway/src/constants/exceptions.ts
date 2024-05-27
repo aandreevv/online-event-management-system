@@ -1,0 +1,17 @@
+export const INVALID_REFRESH_TOKEN = 'Invalid refresh token';
+export const ACCOUNT_IS_NOT_FOUND = 'Account is not found';
+export const USER_IS_ALREADY_FOLLOWED = 'User is already followed!';
+export const USER_IS_NOT_FOLLOWED = 'User is not followed!';
+export const CAN_NOT_FOLLOW_OURSELF = 'Can not follow yourself!';
+export const CONNECTION_IS_NOT_FOUND = 'Connection is not found!';
+export const INTEREST_IS_NOT_FOUND = 'Interest is not found!';
+export const INTEREST_IS_ALREADY_ADDED = 'Interest is already added!';
+export const CONNECTION_IS_ALREADY_ADDED = 'Connection is already added!';
+export const EVENT_IS_NOT_FOUND = 'Event is not found!';
+export const USER_IS_ALREADY_ATTENDEE_OF_THE_EVENT = 'User is already attendee of the event!';
+export const EVENT_IS_PAID = 'Event is paid. You have to buy a ticket';
+export const EVENT_IS_PRIVATE = 'Event is private. You can not attend it without invite';
+export const USER_IS_ALREADY_INVITED_TO_THE_EVENT = 'User is already invited to the event!';
+export const ONLY_OWNER_CAN_INVITE_TO_EVENT = 'Only owner can invite to the event!';
+export const YOU_ARE_NOT_OWNER_OF_THE_EVENT = 'You are not owner of the event!';
+export const ACCOUNT_IS_ALREADY_CONFIGURED = 'Account is already configured!';
